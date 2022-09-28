@@ -1,7 +1,8 @@
 title: Edson Junior # your name (or website title) here
 logo: "/images/ME.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description <br> 
+  First description 
+  <br kjkjkj> 
   Projetos de Análise Exploratória <br>
   Second description <br>
   Envolvem conceitos de ciência de dados utilizados em análise exploratória de dados.
