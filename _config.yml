@@ -1,14 +1,12 @@
 title: Edson Junior # your name (or website title) here
 logo: "/images/ME.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
   <br> 
   Projetos de Análise Exploratória 
   <br>
   <br>
-  Second description 
-  <br>
   Envolvem conceitos de ciência de dados utilizados em análise exploratória de dados.
+  <br>
   <a href="www.linkedin.com/in/edson-junior/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
